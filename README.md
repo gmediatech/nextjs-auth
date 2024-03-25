@@ -2,11 +2,11 @@
 
 First, run the development server:
 
-Welcome to the GitHub repository for our cutting-edge application built with Next.js 14, designed to streamline user authentication and secure access management using NextAuth for Google Sign-In. Our application exemplifies modern web development practices, ensuring both efficiency and security.
+Welcome to the GitHub repository for our cutting-edge application built with Next.js 14, designed to streamline user authentication and secure access management using NextAuth for Google Sign-In. 
 
 ## Overview
 
-This application is a demonstration of integrating Google Sign-In with Next.js, leveraging the power of NextAuth for a seamless authentication experience. It's designed for developers looking for a robust authentication solution and for those aiming to understand the practical implementation of protected routes in a Next.js application.
+This application is a demonstration of integrating Google Sign-In with Next.js, leveraging the power of NextAuth v4 for a seamless authentication experience. 
 
 ## Features
 
