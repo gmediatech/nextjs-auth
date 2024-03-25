@@ -43,4 +43,6 @@ import {signIn, useSession, signOut} from 'next-auth/react'
   )
 }
 
+
 export default Navbar
+
